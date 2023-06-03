@@ -1,0 +1,32 @@
+"C:\Program Files\JetBrains\CLion 2021.3.4\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Program Files/JetBrains/CLion 2021.3.4/bin/ninja/win/ninja.exe" -G Ninja D:\CS112-2022-2nd-GroupA-S9-S10-20210312-20210500-20211026-A4\CS112-2022-2nd-GroupA-S9-S10-20210312-20210500-20211026-A4
+-- Configuring done
+CMake Warning in CMakeLists.txt:
+  The object file directory
+
+    D:/CS112-2022-2nd-GroupA-S9-S10-20210312-20210500-20211026-A4/CS112-2022-2nd-GroupA-S9-S10-20210312-20210500-20211026-A4/cmake-build-debug/CMakeFiles/loginApp.dir/./
+
+  has 165 characters.  The maximum full path to an object file is 250
+  characters (see CMAKE_OBJECT_PATH_MAX).  Object file
+
+    Assignment-4/CS112-203-2nd-GroupA-S9-S10-20210312-20210500-20211026-A4-LoginApp.cpp.obj
+
+  cannot be safely placed under this directory.  The build may not work
+  correctly.
+
+
+CMake Warning in CMakeLists.txt:
+  The object file directory
+
+    D:/CS112-2022-2nd-GroupA-S9-S10-20210312-20210500-20211026-A4/CS112-2022-2nd-GroupA-S9-S10-20210312-20210500-20211026-A4/cmake-build-debug/CMakeFiles/textEditor.dir/./
+
+  has 167 characters.  The maximum full path to an object file is 250
+  characters (see CMAKE_OBJECT_PATH_MAX).  Object file
+
+    Assignment-4/CS112-203-2nd-GroupA-S9-S10-20210312-20210500-20211026-A4-TextEditor.cpp.obj
+
+  cannot be safely placed under this directory.  The build may not work
+  correctly.
+
+
+-- Generating done
+-- Build files have been written to: D:/CS112-2022-2nd-GroupA-S9-S10-20210312-20210500-20211026-A4/CS112-2022-2nd-GroupA-S9-S10-20210312-20210500-20211026-A4/cmake-build-debug
